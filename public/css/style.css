@@ -1709,9 +1709,7 @@ input:-moz-placeholder {
     19. Footer CSS
 *****-----*****-----*****-----*****/
 .footer-area {
-    padding: 150px 0 0;
-    background: #ffffff;
-    background-image: url(../images/bg/footer.png); 
+    background: #000000;
     background-size: cover;
     background-position: center;
 }
@@ -1729,8 +1727,8 @@ input:-moz-placeholder {
 }
 .footer-col ul {
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 .footer-col ul li {
     display: inline-block;
